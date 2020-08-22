@@ -1,0 +1,10 @@
+body {
+    font-family: 'Montserrat' !important;
+}
+@font-face {
+    font-family: "Mont-Heavy";
+    src: url("../font/Mont-HeavyDEMO.otf");
+}
+.title {
+    font-family: "Mont-Heavy";
+}
